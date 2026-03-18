@@ -33,10 +33,14 @@
 ## Input:
 
 ### Output:
+<img width="1057" height="653" alt="image" src="https://github.com/user-attachments/assets/bbcd7fe7-9122-4177-a380-455bb3f4ebb6" />
+
+<img width="742" height="522" alt="image" src="https://github.com/user-attachments/assets/d12ae975-faf5-445b-9f00-4a768367a9cc" />
 
 
-### Name:
-### Register Number:
+
+### Name: M.K.Suriya prakash
+### Register Number: 212224110053
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
